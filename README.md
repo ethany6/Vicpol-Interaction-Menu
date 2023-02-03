@@ -1,4 +1,4 @@
-[![Discord](https://semdevelopment.com/img/discord.png)](https://semdevelopment.com/discord)
+[![Discord](https://images-ext-1.discordapp.net/external/ODgndR5hU4Gi8yE3OUigU2m-PbVwnp4L0zHtgNLHOUQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/926059403289972756/49c163fed23b205992c1de49ecdd38c6.png)](https://discord.gg/QjG3msZSpx)
 
 # SEM_InteractionMenu
 *Multi Purpose FiveM Interaction Menu*
